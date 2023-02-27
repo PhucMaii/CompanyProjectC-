@@ -1,0 +1,11 @@
+// This data file contains infor to build Company object. Format of data is specified like Company: CompanyName, number_of_employees
+// an employee data format is: name, birthdate, starting date, gender, job, salary
+Company: Arjangcore Solutions, 8
+Reza Nezami, 26-05-1973, 01-03-2016, Male, Engineer, 110000, 
+Rose Parker, 18-02-1976, 01-05-2020, Female, Manager, 115000
+Surrinder Gal, 09-8-1992, 01-08-2021, Male, HR, 82000
+Irina PadeoKova, 28-02-1985, 01-11-2018, Female, Engineer, 96000
+Tom Haris, 31-01-2001, 01-09-2019, Male, Accountant, 78000
+Mariana Sintos, 01-12-1998, 15-10-2017, Female, Assistant, 72000
+Ali Tandura, 01-09-1980, 15-9-2015, Male, Engineer, 82000
+Massi Rose, 20-03-1973, 26-05-2016, Female, Data Analyst, 88000
