@@ -8,6 +8,19 @@
 #include <fstream>
 // remember you need to add date.h and date.cpp, PhoneNumber.h, and phoneNumber.cpp we developed in class to this project. 
 using namespace std;
+string deleteComma(string str)
+{
+	string newStr{};
+	for (int i = 0; i < str.length(); ++i)
+	{
+		if (str[i] != ',')
+		{
+			newStr += str[i];
+		}
+	}
+	return newStr;
+}
+
 
 std::istream& operator>>(std::istream& in, eGender& gender)
 {
